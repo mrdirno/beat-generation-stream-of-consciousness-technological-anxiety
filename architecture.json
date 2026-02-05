@@ -1,0 +1,160 @@
+{
+  "book_id": "beat-generation-stream-of-consciousness-technological-anxiety",
+  "title": "The Ghost in the Signal",
+  "tagline": "In a world of constant connection, one man must disconnect to find his own voice.",
+  "target_words": 70000,
+  "actual_words": 72858,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Anxiety of Digital Perpetuity",
+    "The Search for Authentic Voice in a Noisy World",
+    "The Body as a Resistant, Analog Artifact",
+    "Haunting and Being Haunted by the Network"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Blinking Guillotine",
+      "words": 3500
+    },
+    {
+      "ch": 2,
+      "title": "The Green Terminal",
+      "words": 3500
+    },
+    {
+      "ch": 3,
+      "title": "The Live Grenade",
+      "words": 3500
+    },
+    {
+      "ch": 4,
+      "title": "The Subconscious City",
+      "words": 3500
+    },
+    {
+      "ch": 5,
+      "title": "The Tangled Cassette",
+      "words": 3500
+    },
+    {
+      "ch": 6,
+      "title": "The Persistent Echo",
+      "words": 3500
+    },
+    {
+      "ch": 7,
+      "title": "The Jam",
+      "words": 3500
+    },
+    {
+      "ch": 8,
+      "title": "The Analog Silence",
+      "words": 3500
+    },
+    {
+      "ch": 9,
+      "title": "The Middleware of Self",
+      "words": 3500
+    },
+    {
+      "ch": 10,
+      "title": "The DataGhost",
+      "words": 3500
+    },
+    {
+      "ch": 11,
+      "title": "The CircuitBreaker",
+      "words": 3500
+    },
+    {
+      "ch": 12,
+      "title": "The Architecture of Sand",
+      "words": 3500
+    },
+    {
+      "ch": 13,
+      "title": "The Chapel of the Disconnected",
+      "words": 3500
+    },
+    {
+      "ch": 14,
+      "title": "The Signal in the Noise",
+      "words": 3500
+    },
+    {
+      "ch": 15,
+      "title": "The Animal Walk",
+      "words": 3500
+    },
+    {
+      "ch": 16,
+      "title": "The Neon Pulse",
+      "words": 3500
+    },
+    {
+      "ch": 17,
+      "title": "The Unblinking Eye",
+      "words": 3500
+    },
+    {
+      "ch": 18,
+      "title": "The Defiant Anachronism",
+      "words": 3500
+    },
+    {
+      "ch": 19,
+      "title": "The Cascade of Light",
+      "words": 3500
+    },
+    {
+      "ch": 20,
+      "title": "The Scream Into a Sentence",
+      "words": 3500
+    },
+    {
+      "ch": 21,
+      "title": "The Fortress Breached",
+      "words": 3500
+    },
+    {
+      "ch": 22,
+      "title": "The Ghost-Limb of the World",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "The Beautiful Void",
+      "words": 3500
+    },
+    {
+      "ch": 24,
+      "title": "The Last Call",
+      "words": 3500
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character attempts a 'digital sabbath' for 24 hours, documenting the physical and psychological withdrawal symptoms.",
+      "Create a character profile for a modern 'beat'—a figure who rejects the algorithmic curation of life. What is their manifesto? How do they navigate the city?",
+      "Draft a stream-of-consciousness monologue from the perspective of a notification, a data packet, or a blinking cursor.",
+      "Imagine a hidden, physical space in a city (like The Last Call bar) that serves as a sanctuary from the network. Describe its rules, its patrons, and a pivotal conversation that happens there."
+    ],
+    "technical": [
+      "Build a simple text-based 'anxiety simulator' that mimics a social media feed or notification stream, allowing the user to experience the overwhelming cascade described in the novel.",
+      "Create a 'writing jammer' tool—a local, offline text editor with a minimalist, immutable interface designed to eliminate the anxiety of the blank page and the saving/deleting cycle."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William S. Burroughs (cut-up technique, control systems)",
+      "Jack Kerouac (spontaneous prose, the search for authentic experience)",
+      "J.G. Ballard (technological anxiety, psychic landscapes)",
+      "Kathy Acker (appropriation, the body as a site of resistance against systems)"
+    ]
+  },
+  "cover_prompt": "A solitary man in a worn jacket sits hunched over a vintage, cathode-ray tube monitor, its screen a storm of fragmented, glitching text and ghostly, overlapping faces that seem to press against the glass from within, his own tired reflection superimposed on the chaotic digital noise, set within the claustrophobic confines of a late-night apartment littered with analog artifacts—reel-to-reel tapes, scattered notebooks, and a disconnected rotary phone, the city's network of luminous data streams visible as a haunting, persistent grid through the rain-streaked window behind him, in the atmospheric style of Edward Hopper's isolated figures and the distressed, layered textual chaos of Robert Rauschenberg's combines, rendered as a book cover with a centered, intimate composition using a dramatic close-up angle that emphasizes the tension between his physical form and the digital phantoms, lit by the cold, clinical glow of the monitor and the sickly ambient light of the city, casting deep, lonely shadows and using a palette of desaturated blues, static grays, and the urgent, analog warmth of a single amber desk lamp, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
