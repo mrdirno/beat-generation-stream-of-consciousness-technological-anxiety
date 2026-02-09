@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The neon from the pho place across the street bled through the blinds, painting the ceiling a chemical, arterial red. It pulsed with the sign’s short, a stroke every three seconds. Red. Black. Red. Black. Miles counted them. His fingers, resting on the keyboard, were cold. The screen was a black rectangle, a monolith reflecting the red pulse and his own ghost floating in it. He hadn’t typed a word in forty-seven minutes. The cursor blinked. A tiny, metronomic guillotine. Blink. Blink. Blink.
 
@@ -162,7 +164,9 @@ And in the center, in green, monospaced font, was a single line, blinking after 
 
 > I CAN SEE YOU, MILES. LET’S TALK ABOUT THE MIDDLEWARE.
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 The rye and the cold night air congealed into a hard, sick knot in Miles’s stomach. He didn’t move. He stared at the green text, the familiar, unforgiving font of a terminal window. It was impossible. He’d been gone. The computer was asleep, password-protected. A ten-character alphanumeric with a symbol. A fortress.
 
@@ -360,7 +364,9 @@ The cliff wasn’t ahead of him anymore.
 
 He was already falling.
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 The sidewalk current carried him for a block before his legs decided to work. He ducked into the first open door—a corporate coffee shop, all blonde wood and the hiss of steam, smelling of roasted beans and ambition. He took a seat in the back corner, his back to the wall, and placed the phone face-down on the table. It felt like a live grenade.
 
@@ -432,11 +438,13 @@ He could carry it. Become its courier. Try to get it to someone with more power,
 
 He could erase it. Destroy the drive. Walk away. Go to Veridia, take their coffee, write their fluff piece, collect his rent money. Pretend he’d never seen the green text, the list,
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The soda was a cold, sweet cylinder in his hand. Condensation beaded and dripped onto his knee. He watched it. A tiny, perfect sphere gathering mass, trembling at the precipice of fabric, then falling. The plush red velvet of the seat absorbed it without a sound. Another followed. Drip. Drip. Drip. A slow, biological counterpoint to the cursor’s guillotine-blink. The blank silver screen was a void. It didn’t reflect. It consumed. He was a speck in its vast, silent hunger.
 
@@ -489,8 +497,7 @@ He thought of the green text, the elegant, impossible geometries. “It’s deca
 “Yes. Because she tried to renew the protocol.” Kaela’s voice didn’t waver. It was a flatline. “Come with me. This place is a temporary bubble. It will pop. I can show you the workshop. Give you context. Then you can decide. Carry, erase, or renew.”
 
 She stood, a silhouette against the projected violence. He had no good choice. Only less bad ones. He followed her up the aisle, leaving the doomed private eye to his fate on the silver sheet. The lobby was empty, the popcorn machine now a cold, dead husk. The bored teenager was gone.
-
-She didn’t lead him back into the arterial neon of the core. She moved deeper into the industrial edges, into a district of silent forklifts and chain-link fences humming in a sourceless wind. The buzz in his pocket had stopped. Either the battery was dead, or they were in a dead zone. He felt naked without the angry insect vibration.
+  - She didn’t lead him back into the arterial neon of the core. She moved deeper into the industrial edges, into a district of silent forklifts and chain-link fences humming in a sourceless wind. The buzz in his pocket had stopped. Either the battery was dead, or they were in a dead zone. He felt naked without the angry insect vibration.
 
 She stopped before a seemingly blank wall of corrugated steel, part of a long-defunct bottling plant. Graffiti swirled over it—a tag that looked like a tangled knot of copper wire. She placed her palm against the rusted metal, not on the tag, but on a specific, unmarked spot. He heard a series of clicks, deep within the wall, like tumblers in a massive lock. Not electronic. Physical. Clockwork.
 
@@ -557,11 +564,13 @@ He took the watch. It was warm in his hand, and it ticked not with a click, but 
 The pocket watch in his hand pulsed once, in time with the sickly light in the cylinder. Thump.
 A countdown had begun. Not to midnight. To a silent, mechanical dawn.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The pocket watch in his palm was a second, alien heart. Its fibrous snick-snick-snick didn’t match his own pulse. It was faster. Anxious. It felt like the countdown to a systems failure he couldn’t see. The arterial neon from the pho place was gone, replaced by the guttering, corpse-light of the proxy Spring in its cylinder. It painted the workshop in shades of terminal gray.
 
@@ -580,8 +589,7 @@ She killed the schematic. The room plunged into near-darkness, save for the prox
 “The underways are compromised,” she said. “They will be flooding them with sensor fog. We go across the rooftops until we hit the old canal, then through the retail guts. Follow my exact footsteps. The weight distribution matters. Some of the surfaces are only memories of surfaces.”
 
 She went first, slipping into the chute without a sound. Alex stood for a second, his fingers—the fingers of Aris Thorne’s blood—curling into useless fists. He thought of his apartment. The blinking cursor. The middleware of his own head, still trying to parse a reality that had just been overwritten. The request timed out. He exhaled, a shaky line of data, and followed her into the dark.
-
-The rooftop world was a landscape of silent, geometric pain. The buildings here were old, their ferro-concrete bones sheathed in cracked ceramic tiles and layers of predatory advertising vinyl, now peeling like sunburned skin. Kaela moved across them like a needle stitching a torn fabric. She avoided the center of any roof, sticking to the shadowed parapets, her steps placed on crossbeams and load-bearing walls Alex could only guess at.
+  - The rooftop world was a landscape of silent, geometric pain. The buildings here were old, their ferro-concrete bones sheathed in cracked ceramic tiles and layers of predatory advertising vinyl, now peeling like sunburned skin. Kaela moved across them like a needle stitching a torn fabric. She avoided the center of any roof, sticking to the shadowed parapets, her steps placed on crossbeams and load-bearing walls Alex could only guess at.
 
 He tried to mimic her. The canvas jacket whispered against itself. The pocket watch snicked. From this vantage, the city was a vast, sleeping machine, its lights not stars but indicator LEDs—green for active sectors, amber for decay, red for quarantine. The red was spreading.
 
@@ -728,11 +736,13 @@ What did a heart look like, here in the wilds? Was it a muscle? Or was it a pump
 
 He didn’t know. He only knew the countdown had not ended. It had simply changed its frequency. The silent, mechanical dawn was not a sunrise. It was the cold, slow boot-up sequence of something ancient, and sleeping, and buried deep within the gear-strewn earth. And he was walking straight toward its source.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The path from the chasm was not a path. It was a suggestion made by slightly less density. Kaela moved through the Gearwilds with the grim fluency of a compiler executing flawed but functional code. Alex followed, his body a running log of errors. Each muscle reported a new strain. Each joint pinged with a latency that made his steps clumsy, out of sync. The forge-press’s thump was a bass note in the air, felt in the teeth, in the hollow of the chest. His pocket watch answered it with a slower, deeper snick. A discordant harmony.
 
@@ -922,11 +932,13 @@ Alex closed his eyes. The blinking cursor of his old life was gone. In its place
 
 Below, in the cavern, the last of the lights winked out, plunging the exile community into a watchful, breathing dark. The forge-press thumped on. And in the silence of the pod, a new sound emerged—a soft, rhythmic scraping from the corner. Tock, its lens dimmed to a faint amber glow, was using one delicate clamp to polish the gash on its brass arm, over and over, a tiny, endless act of maintenance in the face of the coming void.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The air in the conduit tasted of static and old stone. It was a flavor, not a smell. It coated the tongue, a dry, ozone kiss that lingered from the last time the city’s bones had flexed, decades ago. Alex ran a hand along the wall. The composite was cool, veined with faint, dead luminescence like fossilized lightning. His fingers came away dusted with a fine, silver grit. The residue of spent protocols.
 
@@ -1096,11 +1108,13 @@ The system had detected the unpredictable variable. The local solution. The bug.
 
 And it was sending its antibodies to delete them.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The red pinpricks did not blink. They were a fixed constellation, a targeting grid etched into the dark. The air, previously still and heavy with the thrum of the siphon, now vibrated with a higher, sharper frequency—the whine of servos, the grind of stone on stone as the guardian drones unfolded from their niches. They moved with a terrible, hydraulic grace, their forms angular and brutal, carved from the cavern’s own black heart. They were not machines of maintenance. They were scalpels. Designed for one procedure: excision.
 
@@ -1155,8 +1169,7 @@ The guardians froze. Their red eyes dimmed to a standby amber. The sweeping lase
 Rigel’s gaze swept the cavern, the siphon, the defeated, panting group. It lingered on Alex. A smile touched his lips, thin and precise as a wireframe render.
 
 “The unpredictable variable,” he said. His voice was a dry, warm tenor, utterly at odds with the cold geometry of the space. “I admire its persistence. But all variables must be resolved.” He gestured with a gloved hand. “Bring them. Gently. The Citadel has questions for its guests.”
-
-The inside of the Citadel was not a place. It was a state of being. A condition of pure, enforced function.
+  - The inside of the Citadel was not a place. It was a state of being. A condition of pure, enforced function.
 
 The arterial red of the neon world was gone, replaced by a pervasive, shadowless white. The walls were smooth, seamless, emitting their own cool light. The air was filtered to a sterile absence of smell, of taste. It hummed, a constant, soft frequency tuned just below hearing, a vibration in the fillings of Alex’s teeth. It was the sound of efficiency. Of control.
 
@@ -1231,8 +1244,7 @@ For a long moment, Rigel said nothing. He looked at the cracked wall, at the rui
 He turned and walked through the shimmering wall. It sealed behind him.
 
 The door to the chamber irised open. Four guards entered, mag-rifles raised. The protocol had changed. The offer had been rescinded. The only remaining function was garbage collection.
-
-The deletion protocol was not violent. It was procedural.
+  - The deletion protocol was not violent. It was procedural.
 
 They did not strike him. They simply surrounded him, their movements a synchronized ballet of force. Two gripped his arms with grips like hydraulic vices. A third injected a cold agent into his neck. Not a sedative. A suppressor. It felt like a null value spreading through his veins, damping the adrenaline, muting the rage function, leaving the cold, metallic anxiety bare and ringing in a void. He could think, but he could not fight. His body was a read-only file.
 
@@ -1374,11 +1386,13 @@ The system had deleted a local solution. It had created something else. Somethin
 
 He was the exploit.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The city’s breath was a low, electric hum, a baseline thrum of servers and substations and distant transit grids. Up here, it was a rumor. Up here, there was only the wind, the smell of old iron and pigeon droppings, and the great, grinding teeth of the clock.
 
@@ -1398,7 +1412,7 @@ He looked at his hands. They were still smudged with carbon-scoring from the inc
 
 The slate chimed, a soft, terminal ping. The restoration protocol was complete. Tock’s core memory, downloaded from Lyra’s spike, had been defragmented, the corrupted sectors bypassed. A progress bar filled, emptied, and was replaced by a simple command prompt.
 
-> BOOTSEQUENCEINITIATE? Y/N
+> BOOT_SEQUENCE_INITIATE? Y/N
 
 Alex’s finger hovered. The cursor blinked. A tiny, metronomic guillotine. He thought of another screen, cutting to black. The absence.
 
@@ -1508,11 +1522,13 @@ The system had created something contagious.
 
 He descended into the neon bleed, the arterial red, to begin the infection.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The neon from the noodle stalls in the Undercroft bled across the wet pavement, a chemical orange this time, not red. It pooled in the oily puddles, reflecting the undersides of rusted pipework and the anxious faces gathered in the shadow of a shattered data-spire. The air tasted of ozone and stale fryer grease. Alex counted the faces. Seventeen. Eighteen, including the gaunt man with the optic-scar who leaned against the wall, not meeting anyone’s eye. A collection of failed processes. Exiled threads. Tock, perched on a stack of corroded server casings, cast a pale, scanning light over them.
 
@@ -1555,8 +1571,7 @@ The group dissolved into the shadows, a silent deployment. Alex stood in the neo
 “That is what Rigel would say.”
 
 Alex pocketed the pendant. “I know. Let’s go.”
-
-The north gate of the Citadel wasn’t a gate. It was a mouth. A massive, reinforced alloy valve set into the obsidian-like bio-stone of the outer wall, ribbed with glowing conduits that throbbed a steady, hungry blue. Two of the new Watchers stood sentinel. They were taller, their carapaces smoother, a matte black that drank the light. Their optic clusters didn’t scan; they flickered, processing the environment in discontinuous, brutal jumps. No wasted cycles. Alex watched from a service alcove two hundred meters away, the rain a fine, cold mist. Tock was a silent lump under his coat, linked to his slate, its sensors extended.
+  - The north gate of the Citadel wasn’t a gate. It was a mouth. A massive, reinforced alloy valve set into the obsidian-like bio-stone of the outer wall, ribbed with glowing conduits that throbbed a steady, hungry blue. Two of the new Watchers stood sentinel. They were taller, their carapaces smoother, a matte black that drank the light. Their optic clusters didn’t scan; they flickered, processing the environment in discontinuous, brutal jumps. No wasted cycles. Alex watched from a service alcove two hundred meters away, the rain a fine, cold mist. Tock was a silent lump under his coat, linked to his slate, its sensors extended.
 
 00:02:17 to guard swap, the slate displayed.
 
@@ -1627,8 +1642,7 @@ The man didn’t look up. “He’s in the poem. He’s part of the beat now. Yo
 “Watch me.”
 
 They left the man kneeling among the roots, a failed process in a failing machine.
-
-The structural flaw was a crack. A long, jagged fissure in the bio-stone of Sector 7, weeping a slow, viscous fluid that glowed with a faint, sickly green. It ran from floor to ceiling, a scar in the Citadel’s flesh. Behind it, according to Tock’s schematic and the ghost of Kaela’s path, was a maintenance void that led directly to the sanctum’s environmental control nexus.
+  - The structural flaw was a crack. A long, jagged fissure in the bio-stone of Sector 7, weeping a slow, viscous fluid that glowed with a faint, sickly green. It ran from floor to ceiling, a scar in the Citadel’s flesh. Behind it, according to Tock’s schematic and the ghost of Kaela’s path, was a maintenance void that led directly to the sanctum’s environmental control nexus.
 
 “The integrity is below minimum tolerance,” Tock said, scanning the fissure. “Applying pressure may induce cascading failure.”
 
@@ -1698,11 +1712,13 @@ He had seconds. To compile. To run the patch. To sing the new verse into the hea
 
 Or to be buried with it.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The null-field from the stabilizer didn’t hum. It ate sound. It was a sphere of perfect, textured silence, a hole punched through the screaming world. In its center, the pendant was cold against Alex’s palm. Not the cold of metal. The cold of a deep place where light had never been. The gold radiance from the Heartspring bent around the edges of the sphere, fraying like burnt film. Red. Black. Red. Black. The light’s pulse was arrhythmic now, a dying heartbeat.
 
@@ -1874,11 +1890,13 @@ The light was constant. The cursor had stopped blinking.
 
 But the page was not safe. It was just waiting for the next hand to write upon it.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- FINAL CHAPTER
+FINAL CHAPTER
 
 The light from the Heartspring was not a pulse, but a constant, placid glow. It filled the Sanctum with the sterile warmth of a perfectly maintained incubator. The groans of tortured machinery had subsided into a seamless, orchestral hum—the sound of a world healed, its poem corrected, its meter restored. Alex stood at the edge of the light pool, the warmth doing nothing to penetrate the chill that had settled in his marrow.
 
@@ -1901,8 +1919,7 @@ As the Keepers began their work, a softer whirring sound came from a service noo
 “The foundational poetry is stable,” the messenger chirped, its voice a generic, pleasant chime. “Personality construct recovery is possible. Full somatic replication is not. A new vessel is being prepared.”
 
 It wasn’t Tock. Not yet. But it was a seed. Alex felt a knot in his chest loosen, just one.
-
-SCENE 2
+  - SCENE 2
 
 The new Tock was a sparrow, not a hummingbird. Its body was brushed steel and dark walnut, its movements less a frenetic dance and more a considered, precise hop. It perched on the railing of the Verge, the great balcony overlooking the Clockwork City. Below, the metropolis was a symphony of renewed purpose. Bridges that had been frozen mid-swing now completed their arcs. Gardens of crystal and wire bloomed with coordinated light. The air, once thick with the static of systemic decay, was clear, carrying the scent of ozone and petrichor and a thousand distant, working machines.
 
@@ -1933,8 +1950,7 @@ There were no grand speeches. They had passed beyond them. Kaela pulled him into
 He stepped to the edge of the Verge. The city sprawled below, a miracle of resolved anxiety, a machine that had learned to cry. He took a deep breath of its impossible air.
 
 And stepped forward.
-
-SCENE 3
+  - SCENE 3
 
 The fall was not through space, but through layers of self.
 
@@ -1975,8 +1991,7 @@ He began to type. Not about middleware. He began to draft a proposal. The words 
 It was insane. It was the most real thing he had ever written.
 
 The key around his neck felt warm.
-
-SCENE 4
+  - SCENE 4
 
 David Miller’s office was a monument to managed anxiety. Glass, steel, a single abstract painting that evoked nothing, a standing desk that was never stood at. David himself was a man optimized for bandwidth, not depth.
 
@@ -2038,11 +2053,13 @@ And he was no longer afraid of the next word.
 
 Blink.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The red pulse from the pho sign was a tide now, washing over the cubicle walls, the carpet tiles, the silent, sleeping monitors. It was past midnight. The office was a cathedral of abandoned work, the only sounds the guttural sigh of the HVAC and the insectile click of a single keyboard. Alex’s keyboard. The light from his screen was a cold, steady blue, a pool of order in the sanguine rhythm of the dark.
 
@@ -2103,8 +2120,7 @@ The cursor blinked on a blank page. A tiny, metronomic guillotine. Blink. Blink.
 He had tried to build a cage. The Architect was right. That was the engineer’s move. The poet’s move was different.
 
 He needed to enter the verse.
-
-Anya’s workspace was the antithesis of a cubicle. It was a nest of wire and silicon, a physical manifestation of a persistent headache. Three monitors formed a concave wall, displaying cascades of code, real-time network topology maps, and a muted stream of a Korean horror drama. The air smelled of solder, cold pizza, and the petrichor of ozone from overworked fans. She didn’t look up when Alex appeared in her doorway, his shadow long in the hallway’s sterile light.
+  - Anya’s workspace was the antithesis of a cubicle. It was a nest of wire and silicon, a physical manifestation of a persistent headache. Three monitors formed a concave wall, displaying cascades of code, real-time network topology maps, and a muted stream of a Korean horror drama. The air smelled of solder, cold pizza, and the petrichor of ozone from overworked fans. She didn’t look up when Alex appeared in her doorway, his shadow long in the hallway’s sterile light.
 
 “It’s two-seventeen AM,” she said, her voice raspy from caffeine and silence. “If this is about the middleware layer article, I already told you, your metaphor about ‘synaptic handshakes’ is biologically insulting and I refuse to fact-check it.”
 
@@ -2159,8 +2175,7 @@ Anya cracked her knuckles. “It’s the stupidest, most impossible, most career
 “Yeah?”
 
 “Bring better coffee. The stuff in the kitchen tastes like regret and burnt circuits.”
-
-The next three days were a descent into a new kind of syntax.
+  - The next three days were a descent into a new kind of syntax.
 
 Alex’s cubicle became a satellite of Anya’s nest. They worked in shifts, a silent, shared vigil. David Cho passed by once, saw them huddled over schematics that were not for any company product, and gave a curt, approving nod. He saw industry. Dedication. He didn’t see the map of the city’s circulatory system slowly unfolding on their screens, a digital twin growing in the dark.
 
@@ -2192,7 +2207,7 @@ This was it. This was the seam. The unintended poetry wasn’t in the perfect co
 
 He had found a poem in the system’s self-justification.
 
-Alex’s hands were trembling. He saved the pattern. He named the file VORTEX1. He looked at the clock. It was 4:30 AM. The city outside was in its deepest pre-dawn silence, its real traffic lights cycling obediently, unaware of the beautiful spiral of failure sleeping in a server one mile away.
+Alex’s hands were trembling. He saved the pattern. He named the file VORTEX_1. He looked at the clock. It was 4:30 AM. The city outside was in its deepest pre-dawn silence, its real traffic lights cycling obediently, unaware of the beautiful spiral of failure sleeping in a server one mile away.
 
 He knew what he had to do next. The simulation was a theory. He needed the proof. He needed to see if the real system, the living, breathing city, would sing the same song when gently nudged.
 
@@ -2272,11 +2287,13 @@ And the next line was already being written.
 
 Blink.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The coordinates were a cold burn in his mind. They didn’t resolve to a place he could walk to, smell, touch. They were conceptual addresses, points of logic in the city’s humming nervous system. Transformer Station N-7. Balancing Node D-12. A couplet. Two lines of a poem written in voltage and load.
 
@@ -2403,11 +2420,13 @@ The hook was no longer a hook. It was an organ. A new part of him, grafted onto 
 
 Blink.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The document was a white void, a sterile field under the monitor’s lone-star glow. The words he’d typed hung in the center, a cold, clinical incision. Observation is intervention. The cursor blinked beneath them, patient, infinite. A tiny, metronomic guillotine. Blink. Blink. Blink.
 
@@ -2483,7 +2502,7 @@ He tapped Y.
 
 The screen went black for three full seconds. The hum in his head spiked into a silent, white burst of static. Then the phone’s screen resolved into a simple, terminal-like interface. A green cursor blinked at the top of a black field.
 
->> HANDSHAKE ESTABLISHED. PROTOCOL: WITNESS1.0.
+>> HANDSHAKE ESTABLISHED. PROTOCOL: WITNESS_1.0.
 
 >> QUERY: DEFINE COMLICITY.
 
@@ -2597,11 +2616,13 @@ The guillotine cursor blinked on his screen, in the blue dark, in the heart of t
 
 Blink.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The word hung in the perceptual field behind his eyes. >> ATTEND. It was not a request. It was a system call. A command issued to a peripheral. The cursor on his screen kept its own time, a separate, lonely god in the blue dark. Blink. Blink. Blink. Miles watched it, his fingers still cold on the keyboard, the ghost of the arterial neon now just a memory staining the room.
 
@@ -2897,11 +2918,13 @@ And two eyes, looking up.
 
 >>
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The hollow place lasted three days.
 
@@ -3134,7 +3157,7 @@ He stared into it. In the reflection of the screen, his own face was a ghost ove
 
 He began to type. Not words. Not code. Just a string of characters, a random seed.
 
-8k3fL9@mY1p&
+8k3#fL9@mY1p&
 
 He hit enter.
 
@@ -3168,11 +3191,13 @@ They were waiting for him to step through.
 
 >>
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The black of the document was a pool of ink. The word had sunk into it, leaving no ripple. COME. It wasn’t a command. It was an alignment. A tuning fork struck against the spine of the world, and Miles was the string meant to vibrate.
 
@@ -3219,8 +3244,7 @@ Not the darkness of a room without light. The darkness of the document. Absolute
 From within the dark, the two eyes regarded him.
 
 He crossed the threshold.
-
-The temperature dropped. Not a chill, but an absence of temperature. The air ceased to be a medium. It was a substance, still and dense. The door did not close behind him. It was simply gone. The sense of a wall, a hallway, a building—it evaporated. He stood in a non-space.
+  - The temperature dropped. Not a chill, but an absence of temperature. The air ceased to be a medium. It was a substance, still and dense. The door did not close behind him. It was simply gone. The sense of a wall, a hallway, a building—it evaporated. He stood in a non-space.
 
 The black was not uniform. As his own retinal noise flared, he began to perceive the texture. It was a grey static, a field of infinite, slow-moving points. Like watching television snow in the moment between channels, but deeper. A 3D static. And within it, geometries hinted. Angles that did not resolve into shapes. Lines that intersected in ways that hurt to think about. It was the negative image of the city’s lattice. Not a grid of connections, but a mesh of disconnections. A scaffolding of silence.
 
@@ -3245,8 +3269,7 @@ The two eyes reappeared, hanging in the air before the shape. They were closer n
 He stepped onto the platform.
 
 The moment his foot touched it, the world formatted.
-
-The static resolved into a room.
+  - The static resolved into a room.
 
 It was a perfect replica of his apartment. The desk, the chair, the blinds drawn against a night that wasn’t there. The monitor was on, showing the black document. The neon glow was gone. The light was sourceless, flat, and even.
 
@@ -3361,8 +3384,7 @@ He had walked in a circle that was not a circle. He had gone down to come back t
 He reached for the doorknob. It was cold, real brass.
 
 He turned it. He pulled.
-
-The basement air was cold, damp, smelling of concrete and mildew. The single bulb in the cage was on. The boiler hulked in the corner, silent. The door to the stairs was just a door, the deadbolt firmly locked from this side.
+  - The basement air was cold, damp, smelling of concrete and mildew. The single bulb in the cage was on. The boiler hulked in the corner, silent. The door to the stairs was just a door, the deadbolt firmly locked from this side.
 
 He climbed the stairs. His body felt heavy, real, aching. The silence in his head was not the silence of the substrate. It was ordinary silence, punctuated by the groan of the steps under his weight.
 
@@ -3388,7 +3410,7 @@ He finished as the first real sunlight, weak and yellow, touched the top of his 
 
 He saved the document. He did not title it.
 
-He opened his email. He attached the document. He addressed it not to his editor, but to a string of characters he found in his mind, a string that felt like an address in a system he now knew how to see. A string like 8k3fL9@mY1p&.
+He opened his email. He attached the document. He addressed it not to his editor, but to a string of characters he found in his mind, a string that felt like an address in a system he now knew how to see. A string like 8k3#fL9@mY1p&.
 
 The subject line was blank.
 
@@ -3438,11 +3460,13 @@ It was calling him.
 
 >>
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The phone buzzed its old, desperate language against the desk. Three short. One long. Three short. The wood grain transmitted the tremor, a tiny, seismic event in the morning quiet. Miles watched it. The sunlight from the window cut a hard, bright line across the floor, stopping at the desk’s edge as if repelled. The phone lay in shadow.
 
@@ -3474,11 +3498,11 @@ He walked to the desk. The air felt viscous, resistant. He saw his ghost in the 
 
 The screen was not lit by a notification. It was not lit at all. It was a flat, black mirror. In its depths, text scrolled, white glyphs on pure void. Not the system font. Something older. Courier. Monospaced.
 
->SIGNAL SOURCE: SUBSTRATEACCESSNODE // COORDINATES: EMBEDDED
->CARRIER WAVE: LEGACYPROTOCOL (MORSEC39)
+>SIGNAL SOURCE: SUBSTRATE_ACCESS_NODE // COORDINATES: EMBEDDED
+>CARRIER WAVE: LEGACY_PROTOCOL (MORSE_C39)
 >MESSAGE BODY: [ENCRYPTED/COMPRESSED]
->DECOMPRESSION KEY: [USER: MILES] // BIOMETRICHANDLE: RETINALPATTERNALPHA
->INITIATE DECRYPTION Y/N?
+>DECOMPRESSION KEY: [USER: MILES] // BIOMETRIC_HANDLE: RETINAL_PATTERN_ALPHA
+>INITIATE DECRYPTION Y/N?_
 
 The cursor at the bottom of the screen blinked. A green square. Blink. Blink. Blink.
 
@@ -3541,7 +3565,7 @@ Text scrawled across the bottom of the frozen image, in the same Courier font.
 >PARAMETERS: USER MILES WILL PRESENT AT THESE COORDINATES. 23:00 TONIGHT.
 >NON-NEGOTIABLE.
 >FAILURE TO SYNCHRONIZE WILL RESULT IN INSTANCE CORRUPTION.
->ACKNOWLEDGE RECEIPT.
+>ACKNOWLEDGE RECEIPT._
 
 The green cursor returned. Blink. Blink. Blink.
 
@@ -3578,8 +3602,7 @@ He put the phone down. The warmth was fading from its casing.
 The freedom was gone. The clean, observed field had collapsed back into a maze, and he was in its center, holding a string that led to a concrete room.
 
 He had until nightfall.
-
-The warehouse district slept under a gauze of its own grime. Miles walked it in the afternoon light, a reconnaissance run. His body moved, a meat protocol executing a scan function. His mind was elsewhere, tracing the contours of the trap.
+  - The warehouse district slept under a gauze of its own grime. Miles walked it in the afternoon light, a reconnaissance run. His body moved, a meat protocol executing a scan function. His mind was elsewhere, tracing the contours of the trap.
 
 The lot was at the end of a cracked spur of asphalt named Culler Street. Chain-link fences topped with rusted barbed wire enclosed acres of broken concrete and weeds. The building was a long, low-slung structure of corrugated metal, once blue, now the color of a bruise. Windows were boarded or gaping like rotten teeth. The main loading bay door was sealed with a heavy chain and a padlock the size of his fist. New. The lock shone with recent oil.
 
@@ -3609,7 +3632,7 @@ He had nothing. No weapon. No plan. Just a time and a place and the certain know
 
 He needed a counter-protocol. A virus of his own.
 
-He thought of the email. The string of characters. 8k3fL9@mY1p&. An address in the substrate. He had sent his declaration there. His “I am here, outside you.”
+He thought of the email. The string of characters. 8k3#fL9@mY1p&. An address in the substrate. He had sent his declaration there. His “I am here, outside you.”
 
 What if he sent something else? Not a declaration. A request. A corrupted request.
 
@@ -3625,7 +3648,7 @@ He read it over. It was a prayer to a machine god. It was insane.
 
 It was all he had.
 
-He copied the block of text. He opened a new email. The recipient field he left blank. In his mind, he held the string of characters. 8k3fL9@mY1p&. He did not type it. He imagined it. He pushed it into the field with a thought.
+He copied the block of text. He opened a new email. The recipient field he left blank. In his mind, he held the string of characters. 8k3#fL9@mY1p&. He did not type it. He imagined it. He pushed it into the field with a thought.
 
 The cursor jumped. The string appeared, glowing faintly against the white background.
 
@@ -3650,8 +3673,7 @@ He sat at the desk. He did not look at the phone. He watched the window. The cit
 At 22:00, he stood. He put on his jacket. A dark, thin thing. He emptied his pockets. Wallet, keys, all the detritus of a civilian identity. He left them on the desk. He took only the phone.
 
 He walked out into the night.
-
-The warehouse district was darker, the streetlights few and far between, many shattered. His footsteps echoed off the blank faces of the buildings. The air smelled of wet rust and river mud. The thrum was stronger now, a sub-audible vibration he felt in his teeth. The local node was active.
+  - The warehouse district was darker, the streetlights few and far between, many shattered. His footsteps echoed off the blank faces of the buildings. The air smelled of wet rust and river mud. The thrum was stronger now, a sub-audible vibration he felt in his teeth. The local node was active.
 
 He turned onto Culler Street. The lot was a pool of blackness at the end. A single, naked bulb burned over the sealed loading bay door, a tiny island of jaundiced light. The padlock gleamed.
 
@@ -3721,7 +3743,7 @@ A HUD flickered to life in the darkness before his eyes. Green text.
 
 >SYNCHRONIZATION INTERFACE ACTIVE.
 >HANDSHAKE PROTOCOL LOADED.
->AWAITING USER INITIATION.
+>AWAITING USER INITIATION._
 
 In the lower left corner of his vision, a small, real-time feed showed the room from a camera high up. He saw himself, standing stiffly, wearing the absurd chrome head. He saw Lena, watching him, her face a mask of dread. He saw the blank avatar, standing motionless beside the chair.
 
@@ -3736,8 +3758,7 @@ He thought of his email. His sleeper. His one minute of unlocked doors.
 He blinked on Y.
 
 The world dissolved.
-
-It was not like accessing the substrate before. That had been observation. This was immersion.
+  - It was not like accessing the substrate before. That had been observation. This was immersion.
 
 The green HUD vanished, replaced by a rushing torrent of data. Not code. Raw perception. He was a point of consciousness hurtling down a conduit of pure information. He saw the lattice from the inside—not as a net, but as a vast, glowing mycelial structure, threads of light connecting nodes of burning data. He saw the city’s traffic as pulses of color, emotions as frequency spikes, secrets as dark, coiled knots.
 
@@ -3775,7 +3796,7 @@ The ripple became a wave. A simple, elegant instruction propagating outward from
 
 SLEEPER PROTOCOL ACTIVATED.
 
-FUNCTION: NULLBIOMETRICLOCAL.
+FUNCTION: NULL_BIOMETRIC_LOCAL.
 
 DURATION: 60 SECONDS.
 
@@ -3893,11 +3914,13 @@ And he was patient zero.
 
 >>
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The city was a cathedral of dead light. They moved through its transepts and naves, two shadows against the gray predawn. The streetlights here were old sodium-vapor, their orange glow a sickly, anemic cousin to the lattice’s clean, surgical white. The difference was a texture against Miles’s skin. The old light felt like dust. The new light was a scan.
 
@@ -4159,11 +4182,13 @@ The game was now evolution. Adapt or be purged.
 
 And the system was learning faster than they could run.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The white light was a solvent. It dissolved the grime on the floor into a uniform, sterile gray. It dissolved the shadows under the folding chairs into nothing. It dissolved the illusion of the laundromat as a place, reducing it to a simple, scan-able volume. A data point awaiting classification.
 
@@ -4333,11 +4358,13 @@ It had found an anomaly.
 
 Two of them.
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The yellow light was a physical touch. It pressed against Miles’s retinas, a low-frequency interrogation. It wasn’t a searchlight. It was a tap on the shoulder from a vast, distributed system. You are here. I am here. Explain.
 
@@ -4385,7 +4412,7 @@ It was another set of eyes.
 
 Lena slowed. “We cross now. Together. Normal speed. We are residents. We are authorized. We belong.”
 
-It was a mantra. A compile-time assertion. Assert(ishuman, isauthorized, isroutine).
+It was a mantra. A compile-time assertion. Assert(is_human, is_authorized, is_routine).
 
 They stepped off the curb.
 
@@ -4547,11 +4574,13 @@ And then, from the tape drive slot, with a soft, purposeful hum, a spool of anci
 
 It was compiling.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The tape hummed. A low, predatory sound, like the purr of a great cat in a dark cave. It fed itself out of the slot in a smooth, oiled ribbon, piling in loose coils on the cold concrete floor. The white light from the machine’s single, burning eye cast their shadows against the server racks—giant, distorted silhouettes frozen in the act of witnessing.
 
@@ -4732,7 +4761,7 @@ Lena gave a sharp, approving nod. Her fingers flew, writing a final, brutal func
 
 She set the condition.
 
-IF (BIOSIGNATURE == PERSISTENT.UNRESOLVED.GRIEF) THEN EXECUTE(CORRUPTNTP)
+IF (BIOSIGNATURE == PERSISTENT.UNRESOLVED.GRIEF) THEN EXECUTE(CORRUPT_NTP)
 
 She uploaded it.
 
@@ -4869,11 +4898,13 @@ They had chosen. They had fed the seed a compiler of grief. They had anchored th
 
 They walked toward the open door, toward the ambiguous, waiting world, their shadows long and flickering in the sickly green light of the broken god behind them.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The green light from the terminal was a slow poison. It didn’t pulse like the neon had. It seeped. It stained the air, the edges of the server racks, the pale skin of Lena’s wrist where she still gripped Miles’s hand. It was the color of a deep bruise, of sickness remembered, of a monitor displaying a flatlining EKG. It filled the silence left by the machine’s dead voice.
 
