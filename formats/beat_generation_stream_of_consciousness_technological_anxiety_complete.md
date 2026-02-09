@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The neon from the pho place across the street bled through the blinds, painting the ceiling a chemical, arterial red. It pulsed with the sign’s short, a stroke every three seconds. Red. Black. Red. Black. Miles counted them. His fingers, resting on the keyboard, were cold. The screen was a black rectangle, a monolith reflecting the red pulse and his own ghost floating in it. He hadn’t typed a word in forty-seven minutes. The cursor blinked. A tiny, metronomic guillotine. Blink. Blink. Blink.
@@ -161,6 +163,8 @@ This screen was black. A command prompt.
 And in the center, in green, monospaced font, was a single line, blinking after the last character like a heartbeat:
 
 `> I CAN SEE YOU, MILES. LET’S TALK ABOUT THE MIDDLEWARE.`
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -359,6 +363,8 @@ They knew.
 The cliff wasn’t ahead of him anymore.
 
 He was already falling.
+
+# Chapter 3
 
 ## CHAPTER 3
 
